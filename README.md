@@ -149,5 +149,3 @@ Based on this analysis, three immediate priorities stand out:
 3. **Reduce geographic revenue concentration** with ~46% of revenue from two states, the business is exposed. A deliberate push into higher-margin, lower-volume states like Uttar Pradesh (14.48% margin) and Himachal Pradesh (7.57%) would both diversify risk and improve overall blended margin.
 
 ---
-
-## Repository Structure
