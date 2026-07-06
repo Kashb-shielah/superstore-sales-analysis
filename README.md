@@ -1,9 +1,7 @@
 # Indian Superstore Sales Analysis
 ### Business Analytics Case Study | Microsoft Excel
 
-![Dashboard Preview](dashboard-screenshot.png)
-
-> **Replace `dashboard-screenshot.png` with your actual screenshot filename after uploading it to the repo**
+![Dashboard Preview](Dashboard.png)
 
 ---
 
@@ -136,7 +134,7 @@ The final dashboard delivers all five findings in one view:
 - **Bar Chart** "Profit Margins Vary Widely Across States" loss-making states highlighted in red
 - **Customer Health Summary** text callout confirming healthy customer distribution
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](Dashboard.png)
 
 ---
 
